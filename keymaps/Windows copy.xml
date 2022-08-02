@@ -8,6 +8,9 @@
   <action id="NewAndroidVectorAsset">
     <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
   </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="alt z" />
