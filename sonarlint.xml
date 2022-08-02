@@ -1,0 +1,17 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="rulesByKey">
+      <map>
+        <entry key="kotlin:S3776">
+          <value>
+            <Rule active="false" key="kotlin:S3776" />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="secretsNeverBeenAnalysed" value="false" />
+    <rules>
+      <Rule active="false" key="kotlin:S3776" />
+    </rules>
+  </component>
+</application>

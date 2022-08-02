@@ -1,0 +1,43 @@
+<keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="alt 6" />
+  </action>
+  <action id="ActivateTODOToolWindow" />
+  <action id="Android.CreateResourceDirectory">
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+  </action>
+  <action id="Dart.NewDartFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt quote" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="GeneratePOJOAction">
+    <keyboard-shortcut first-keystroke="alt quote" />
+  </action>
+  <action id="NewAndroidVectorAsset">
+    <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift z" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="template.create.ActivityEmpty Activity">
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
+  <action id="template.create.FragmentFragment (Blank)">
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
+</keymap>
